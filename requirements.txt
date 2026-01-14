@@ -1,0 +1,23 @@
+# Core Data Science Libraries
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Image Processing
+opencv-python>=4.5.0
+scikit-image>=0.18.0
+Pillow>=8.3.0
+
+# Machine Learning & Deep Learning
+tensorflow>=2.8.0
+keras>=2.8.0
+scikit-learn>=0.24.0
+scipy>=1.7.0
+
+# Progress Bars & Utilities
+tqdm>=4.62.0
+
+# Jupyter (if running in notebook)
+jupyter>=1.0.0
+ipython>=7.26.0
