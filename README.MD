@@ -51,14 +51,14 @@ project/
 │       ├── 2.png
 │       └── ...
 ├── requirements.txt
-└── notebook.ipynb
+└── Image-classification-of-cancerous-cells.ipynb
 ```
 
 ## Usage
 
 ### Running the Notebook
 ```bash
-jupyter notebook notebook.ipynb
+jupyter notebook Image-classification-of-cancerous-cells.ipynb
 ```
 
 ### Key Steps in the Workflow
